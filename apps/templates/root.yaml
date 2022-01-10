@@ -11,7 +11,7 @@ spec:
   project: default
   source:
     path: apps/
-    repoURL: git@github.com:naveenlr92/argocd-example-install.git
+    repoURL: https://github.com/naveenlr92/argocd-example-install.git
     targetRevision: HEAD
   syncPolicy:
     automated:
